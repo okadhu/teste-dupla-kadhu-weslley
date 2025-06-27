@@ -1,0 +1,14 @@
+body {
+background-color:bisque;
+font-family: 'Times New Roman', Times, serif;
+}
+nav {
+  display: grid;
+  margin: 20px;
+}
+Link { 
+  color: indianred;
+}
+button {
+  background-color:antiquewhite
+}
